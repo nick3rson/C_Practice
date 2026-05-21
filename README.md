@@ -10,9 +10,9 @@
 
 | ไฟล์ / โฟลเดอร์ | คำอธิบาย |
 | :--- | :--- |
-| `GEMINI.md` | คำแนะนำสำหรับ AI Assistant |
 | `README.md` | รายละเอียดของโปรเจกต์ |
-| `* .c` | โค้ดโปรแกรมภาษา C (กำลังอัปเดต...) |
+| `Basic/` | รวมโค้ดพื้นฐาน (เช่น Hello World) |
+| `* .c` | โค้ดโปรแกรมภาษา C อื่น ๆ |
 
 ## 🛠️ วิธี Compile
 
@@ -30,7 +30,7 @@ gcc -o output_name file_name.c
 
 ในโปรเจกต์นี้จะรวบรวมการฝึกฝนในหัวข้อต่าง ๆ ดังนี้:
 
-- [ ] พื้นฐานภาษา C (Data Types, Variables)
+- [x] พื้นฐานภาษา C (Data Types, Variables, Printf)
 - [ ] โครงสร้างควบคุม (If-Else, Switch-Case)
 - [ ] การวนซ้ำ (Loops: For, While, Do-While)
 - [ ] ฟังก์ชัน (Functions & Scope)
