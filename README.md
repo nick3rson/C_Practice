@@ -31,7 +31,7 @@ gcc -o output_name file_name.c
 ในโปรเจกต์นี้จะรวบรวมการฝึกฝนในหัวข้อต่าง ๆ ดังนี้:
 
 - [x] พื้นฐานภาษา C (Data Types, Variables, Printf)
-- [ ] โครงสร้างควบคุม (If-Else, Switch-Case)
+- [x] โครงสร้างควบคุม (If-Else, Switch-Case)
 - [ ] การวนซ้ำ (Loops: For, While, Do-While)
 - [ ] ฟังก์ชัน (Functions & Scope)
 - [ ] อาร์เรย์และสตริง (Arrays & Strings)
