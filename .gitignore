@@ -1,1 +1,6 @@
+# Ignore GEMINI.md
 GEMINI.md
+
+# Ignore the .gitignore file itself
+.gitignore
+
